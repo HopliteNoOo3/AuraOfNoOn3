@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AuraOfNoOn3",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NoOn3",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "192.168.1.130",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
